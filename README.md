@@ -1,4 +1,4 @@
-# Pharmacy_Management_DBS
+# Pharmacy Management DBS
 
 Welcome to the Pharmacy Management System repository! This project is a logical implementation of a pharmacy management system, designed to handle various aspects of pharmacy operations including inventory management, sales, and customer records.
 
